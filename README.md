@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi 👋, I'm Uzair Riaz
 
-<!--
-**uzai-rriaz1/uzai-rriaz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 MERN Stack Developer | Frontend Focused | Building Real Projects
 
-Here are some ideas to get you started:
+I'm a passionate developer who loves creating modern, responsive, and user-friendly web applications.  
+Currently focused on building full-stack applications using the MERN stack and improving UI/UX design skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me
+
+- 💻 Working with **MongoDB, Express, React, Node.js**
+- 🎨 Focused on creating clean and modern frontend designs
+- 🔐 Experienced with JWT Authentication & Protected Routes
+- ⚡ Building real-world projects and dashboards
+- 📚 Always learning new technologies and improving my skills
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- Tailwind CSS
+- Redux Toolkit
+- React Query
+- Axios
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JWT Authentication
+
+### Tools & Platforms
+- Git & GitHub
+- VS Code
+- Postman
+- Vercel
+- Render
+
+---
+
+## 🚀 Current Project
+
+### 🏥 Doctor Appointment System
+
+Features:
+- Patient & Doctor Authentication
+- Doctor Availability Management
+- Appointment Booking System
+- Doctor Dashboard
+- Patient Dashboard
+- Protected Routes
+- Responsive UI
+
+---
+
+## 📈 GitHub Stats
+
+```txt
+⭐ Building projects consistently
+🚀 Learning every day
+💡 Improving problem-solving skills
