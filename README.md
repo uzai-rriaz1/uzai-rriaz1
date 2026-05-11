@@ -1,38 +1,31 @@
 # Hi 👋, I'm Uzair Riaz
 
-### 🚀 MERN Stack Developer
+### 🚀 Full Stack MERN Developer
 
-Passionate about building modern, responsive, and user-friendly web applications using the MERN stack.
+Passionate about building modern, scalable, and user-friendly web applications using the MERN stack.  
+Focused on creating clean UI, secure backend systems, and real-world full stack projects.
 
 ---
-
 ## 💻 Tech Stack
 
-- ⚛️ React.js
-- 🎨 Tailwind CSS
-- 🟢 Node.js & Express.js
-- 🍃 MongoDB & Mongoose
-- 🔐 JWT Authentication
-- ⚡ React Query & Redux Toolkit
+- React.js
+- Node.js & Express.js
+- MongoDB & Mongoose
+- Tailwind CSS
+- JWT Authentication
+- React Query & Redux Toolkit
 
 ---
-
 ## 🚀 Current Project
 
 ### 🏥 Doctor Appointment System
 - Patient & Doctor Dashboards
 - Appointment Booking
-- Availability Management
 - Secure Authentication
-- Responsive Modern UI
+- Responsive UI
 
 ---
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourusername
-
----
-
-⭐ Always learning and building real-world projects.
+- LinkedIn: https://www.linkedin.com/in/uzair-riaz-581846374
