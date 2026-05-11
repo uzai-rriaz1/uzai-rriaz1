@@ -1,65 +1,38 @@
 # Hi 👋, I'm Uzair Riaz
 
-### 🚀 MERN Stack Developer | Frontend Focused | Building Real Projects
+### 🚀 MERN Stack Developer
 
-I'm a passionate developer who loves creating modern, responsive, and user-friendly web applications.  
-Currently focused on building full-stack applications using the MERN stack and improving UI/UX design skills.
-
----
-
-## 🌟 About Me
-
-- 💻 Working with **MongoDB, Express, React, Node.js**
-- 🎨 Focused on creating clean and modern frontend designs
-- 🔐 Experienced with JWT Authentication & Protected Routes
-- ⚡ Building real-world projects and dashboards
-- 📚 Always learning new technologies and improving my skills
+Passionate about building modern, responsive, and user-friendly web applications using the MERN stack.
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### Frontend
-- React.js
-- Tailwind CSS
-- Redux Toolkit
-- React Query
-- Axios
-
-### Backend
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- JWT Authentication
-
-### Tools & Platforms
-- Git & GitHub
-- VS Code
-- Postman
-- Vercel
-- Render
+- ⚛️ React.js
+- 🎨 Tailwind CSS
+- 🟢 Node.js & Express.js
+- 🍃 MongoDB & Mongoose
+- 🔐 JWT Authentication
+- ⚡ React Query & Redux Toolkit
 
 ---
 
 ## 🚀 Current Project
 
 ### 🏥 Doctor Appointment System
-
-Features:
-- Patient & Doctor Authentication
-- Doctor Availability Management
-- Appointment Booking System
-- Doctor Dashboard
-- Patient Dashboard
-- Protected Routes
-- Responsive UI
+- Patient & Doctor Dashboards
+- Appointment Booking
+- Availability Management
+- Secure Authentication
+- Responsive Modern UI
 
 ---
 
-## 📈 GitHub Stats
+## 🌐 Connect With Me
 
-```txt
-⭐ Building projects consistently
-🚀 Learning every day
-💡 Improving problem-solving skills
+- GitHub: https://github.com/yourusername
+- LinkedIn: https://linkedin.com/in/yourusername
+
+---
+
+⭐ Always learning and building real-world projects.
