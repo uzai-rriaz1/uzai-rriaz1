@@ -1,5 +1,8 @@
 # Hi 👋, I'm Uzair Riaz
 
+
+[![Uzair Riaz profile views](https://u8views.com/api/v1/github/profiles/219829820/views/day-week-month-total-count.svg)](https://u8views.com/github/uzai-rriaz1)
+
 ### 🚀 Full Stack MERN Developer
 
 Passionate about building modern, scalable, and user-friendly web applications using the MERN stack.  
